@@ -1,1 +1,893 @@
-([[This file was protected with MoonSec V3]]):gsub('.+', (function(a) _yBqMuCWgHwL_ = a; end)); return(function(h,...)local f;local d;local t;local z;local s;local u;local e=24915;local n=0;local l={};while n<602 do n=n+1;while n<0x3a4 and e%0x4b2a<0x2595 do n=n+1 e=(e*629)%23976 local r=n+e if(e%0x40fa)<=0x207d then e=(e*0x3d7)%0x36a6 while n<0xad and e%0x13c2<0x9e1 do n=n+1 e=(e+677)%18877 local d=n+e if(e%0xf26)<=0x793 then e=(e-0x349)%0x780c local e=11130 if not l[e]then l[e]=0x1 t=string;end elseif e%2~=0 then e=(e+0xcb)%0x7c2c local e=60582 if not l[e]then l[e]=0x1 z="\4\8\116\111\110\117\109\98\101\114\99\98\80\110\71\88\98\90\0\6\115\116\114\105\110\103\4\99\104\97\114\107\72\66\80\88\87\69\109\0\6\115\116\114\105\110\103\3\115\117\98\85\105\103\79\116\70\98\95\0\6\115\116\114\105\110\103\4\98\121\116\101\79\84\97\79\74\102\67\122\0\5\116\97\98\108\101\6\99\111\110\99\97\116\105\120\116\108\80\105\101\65\0\5\116\97\98\108\101\6\105\110\115\101\114\116\86\105\109\87\69\73\122\120\5";end else e=(e*0x120)%0x4110 n=n+1 local e=48715 if not l[e]then l[e]=0x1 f=getfenv and getfenv();end end end elseif e%2~=0 then e=(e-0x25c)%0x1557 while n<0x2e6 and e%0x270e<0x1387 do n=n+1 e=(e+855)%36236 local z=n+e if(e%0x2fac)>0x17d6 then e=(e*0x48)%0x7fe4 local e=60991 if not l[e]then l[e]=0x1 end elseif e%2~=0 then e=(e-0x4a)%0x628f local e=36433 if not l[e]then l[e]=0x1 d=function(l)local e=0x01 local function n(n)e=e+n return l:sub(e-n,e-0x01)end while true do local l=n(0x01)if(l=="\5")then break end local e=t.byte(n(0x01))local e=n(e)if l=="\2"then e=s.cbPnGXbZ(e)elseif l=="\3"then e=e~="\0"elseif l=="\6"then f[e]=function(e,n)return h(8,nil,h,n,e)end elseif l=="\4"then e=f[e]elseif l=="\0"then e=f[e][n(t.byte(n(0x01)))];end local n=n(0x08)s[n]=e end end end else e=(e+0x1d6)%0xbe8e n=n+1 local e=47255 if not l[e]then l[e]=0x1 s={};end end end else e=(e+0x1eb)%0x3671 n=n+1 while n<0x79 and e%0x3e86<0x1f43 do n=n+1 e=(e+271)%33616 local d=n+e if(e%0x1dd8)>0xeec then e=(e*0xbe)%0xb5aa local e=70280 if not l[e]then l[e]=0x1 u=tonumber;end elseif e%2~=0 then e=(e+0x125)%0x40af local e=7345 if not l[e]then l[e]=0x1 f=(not f)and _ENV or f;end else e=(e-0x25f)%0x64d8 n=n+1 local e=62029 if not l[e]then l[e]=0x1 end end end end end e=(e*472)%35231 end d(z);local n={};for e=0x0,0xff do local l=s.kHBPXWEm(e);n[e]=l;n[l]=e;end local function r(e)return n[e];end local l=(function(z,t)local h,l=0x01,0x10 local n={{},{},{}}local f=-0x01 local e=0x01 local d=z while true do n[0x03][s.UigOtFb_(t,e,(function()e=h+e return e-0x01 end)())]=(function()f=f+0x01 return f end)()if f==(0x0f)then f=""l=0x000 break end end local f=#t while e<f+0x01 do n[0x02][l]=s.UigOtFb_(t,e,(function()e=h+e return e-0x01 end)())l=l+0x01 if l%0x02==0x00 then l=0x00 s.VimWEIzx(n[0x01],(r((((n[0x03][n[0x02][0x00]]or 0x00)*0x10)+(n[0x03][n[0x02][0x01]]or 0x00)+d)%0x100)));d=z+d;end end return s.ixtlPieA(n[0x01])end);d(l(17,"oJvDG7K?-h>%;3_TTG"));d(l(89,"mB142#:9M!Q> <%6Q9#2:MB=>##466!6%4%QQ12B%>:>dQ<6:M44 M:%6 #%D:BM>1#9v!>E417 QB2<6QM<26><12 6%BMQ1M<2MB6QQ19#1B Q2B%<Q:% !!Q<##6Q!M22%21!4M<4M<14 69BB >6##12>>:M642:6BPB! #:6B4#24%1MQ22%4M>44 <:i1:Q!9466#:S#B4Q :1+1QB#9%>Q#4!%B!141<!MM19><9<12  26>s#Q#fh:Q>:47#Q6B964M12 62: 29%#MM 9:%MMB! M9Q6MQQ246#!Q:1%9MQ%9M<: 1) #!441%.:#36%4B: B<29:1B !:%S >M#M<<!44!%4M>##%6: <o9 !11: %96B6:99<B< :#%=9>:# ^6>14%%MM92<6Q1%<9%<M<4: %991: #9!6!Q!#1%QM6#%!%2:#M{B!62>6M941  2M!B6%99 4::9B-12><:>E>>d:M6BM:4 649%26 Q!1<49%M%1!%49% 1 Q991B M91B>QB: k%Q 4u{2!B%2"));local e=(-17572+(function()local l,n=0,1;(function(e)e(e(e))end)(function(e)if l>292 then return e end l=l+1 n=(n+768)%27580 if(n%1302)>=651 then n=(n-29)%33130 return e else return e(e(e))end return e(e(e)and e(e))end)return n;end)())local de=(getfenv)or(function()return _ENV end);local r=s.cpIRTECk or s.jvrWZRqw;local z=4;local f=2;local d=3;local g=1;local function le(c,...)local a=l(e,"t)n0Oqzl #%WTf&7zOTO%z  z%znn&)P7nWT0%0nz(7 &%HlTb  7l#lOzuz lzlOqnzS&&%T7%T 7O0nnuO&zT %% T#&#}0q)O7zf W%#Tl&q1 )nOIW& T%%T7nf7T)%z #7 &zWT#& y%0%  %q OW0&p77l&OWq%z 27%&%W&%? nO%&O%#70zTzf#OO&)O0Wff%))TU7TY%  OzzO l%zfzS0qn}} lzqf0%)T7&n#n7Aq&fTfO%0l^&7Nfn) xq&lTT%7yOW)zW%#0n)&z%q5n&)S7nn )W)v&&qTOln9rn&OI7)z&ff&W0#fllznO%W %ilTq&O^RW%l OWaOW) z&q00n)O7zWTlOqzl&zTOnnOkznW0#)%7Of#W#l% qzO0&n))^ 0znOOnz^ &%TT7lfhlnq 0z) 7%nqn)M779zOqOn 1%&T)q)7?zfTWl%qzfz)OWn#NO70fn%Tn%)z&&fEWn& fWf.%&q7zfOT0))zW#z q0nT_&7,nq)lS ffW7%%zqlqOWTO%&  z%OTln qzO0qn%b)&#T%0&nf+n&OTz7T&7&OTnlOlWzl0ln p%&)W7WnnnQ&&zT %%f#T7WW#lzWq7Oz)&EW7qzYOTnOxz& ))))^nT0Wl%z Tz)0fn)%) PznOOnzm  %nT&&#al#qO0z) OfO)0n&07)fz%Wn n)&TT&WFjOfzT&## fz7O00O5W& %_llq#OKnng &qTl%% fl0qq0z&bT&%O zz n7fWT%fl ^qql%0NKln)ff 0&nfT%z  z%W&#B  q0Oln#7f&&Tq%nq%0))07lf&W%%nl&z0OqnlC%&TfnlTz#OcnnuOn&0)+&7)W&Tn#l )q7Ofnl#7l&zAOnnO2z& f%&T &lzqn0O)zf7 0lW 0nn7WOO0W1 &%TT#O0T)O0T7q%zf&##lf l)z{Tn%&nTOfOqnO%l )pon0 nq7Tf&TZ&&70T#%##zqTq%0)nW7#& q#0W)T!l&_Tn%O&fTfW&lTz7zn0lnnv%l zz0T)&h^T znnll)&%&W)nTT#nW#qW)7lfqT0&nv;n&O%z)lT%zTq 0:)n7OOnnl7W&Yf)WO#OzfqOn7%%#zz&qg0nz qWqmn&&7&)T)%& #z%& fn%T &l<0lTn%)ffzOqlW&W)z0OOnz)n&%TT%&f)fzW  %lflnqrn-<77%zOOfn 1%&T)O7T&)T0% q OT77f&Tu%n OzzO z OT&&flWn#Olz#W%# %zTOqnq)  zlOO%nTr&f#q#O)lWFn7qnOTTW&T# )qO  zfOTn&)50&)zhn#  0qT0&n8O0O n%&%77&VTn#7 w7O&%W #%lTO)T*Wk& %Z n#n)(a 0zT&T^nlFz&TT%WuO0TnW09#& T%%T &l<qnzPqz7 &aWT#& bOl& Tn7h#)qn%&#%lnqO0zzWqWqnn0&07)fn%T#)l)&TffWP#nlO0WfT%l&)zzlz %1 +_n&TzW fq &qz#O#fq 0%)TqnO nW)l%zT&W0# l0)5O#)qE## T%%& flOOlnl)%&fT&zT%ql#zz0Tfz&q&#TW%Tl0zlOl&z7&WfzTql0h)n7OW%lnqOzO&nf%Q %2#nT Wq Tz&q>)%#7%lW&qBn0zq&#T%l)q#& f1%T &l=0lTn%)ffzOql#&#nznOOnz7!%)l7#zOl7q0f&)WZf7#zzO  0ennnf&qW &TfzWb#nlO%z%l fzqqnn#))7nzzqfn%CT&&WOzTO&q&fTfO5n#% T% qO0&qjb#T 7q %qz#W0W)zq%On)&HM&n%Tqf0Wqnu0W))X7WfOWz# TnT)#7#nlzOznWV#7&zTqq0B)n7On0)#pq&)Wn%) O=O7nT %% Tqq7l&f7# o b%0)T)fOq7TT%Az7nT%%T &T0Tz#q  zT07n&&q7qTWOlnzZ &%TT%&#{ln#O0zn%7%fTW& ln#)7nWWnWnfqO&O7lln&7TnXT W%TqlfqG OzWO n%gT0)07)&J0& q 0&)T7&&2h&&zfn%7O%0 _&7Ifn##)Wn&0&7lWO& zzq& TnO)zOT00)o7nfONWfT&0T#lens<W&OTz% f0f%Tn%n )O 0W0(J&lTzqO,nnGOOT0%)#7#T(#llO)O7%f W%#TTTT)%7 #hz7)T%%T &W)Wz# z#zOO0ne*07nznqOnz. &%)7)07&fz%n%q Tz0Onnlg0&0f %7#ll &TfnWS#nlO%#%)#Oz)f&TO%n Ozz f#  )qWf6Wz#Olzq  b WzTqOTnW% zz O%z&z7q00f)WM &lT7%% nqOqOnq)O7Wf%%f%4lqzG0ln7#  (qT0&nH&WzOz6 7)&)OO&0#)n7Ofzb&7W& f0%ql>zqq0nf%%#nz&qw0n7% W  #7)T0%z6OTnO-z& %&z#n%q fnW#q=fT#Olz#&#)znOOnz&T%lz #z)X7l%q l77W  +%zq7)WOfTfWOm%7TT&W{#nWzWl#W qz0qcn7)l7nT% W##l qfOn&q#llzq 0%)T7&&2Tn%O zzWO%nT4&0f00nT#z nq%0T)&O)Ozn 7#&fTfTc#ll7z_fOWf# l%qT#O #lqOfn )O&7zTqn0*)n7On%n)Bl&)q&Olnn-O&zZf) &ffGWT#ll 7zf7W%#Tl&%O%l %zlqf0znc#)lLqn0O)z7 f%nqf& 2zWOOnzB 0&0)nzgOW&Wq# lfzzfTfl%V nzOn%&nTOfOqnO%l )UZn)TfnlTTql&OzWz#llfq&0T)7J/&zTW% q q#)T7&&{%%n nmO&&zf 70l zf# q0)OOyf0fO&#l#l  %O5nOl&q&Onnz<n&lT %  &z&n1N#&OTz% TffWWT%OllznO%W %)lTq&OYlnl9OlO)_77&&)qu0&)O7zf 7TUW7_TO%l#zO#ql0z)W,S%0qn0T)z7 f%7777&TT&%z lzWqqTTW##hlnqO %lflnqG)q)n&0fOWz fz&&TfqWM#nlO#&%T &zTnqnq)z Ol0O n%XTOfO#7O_qT0Tflfl0zqn 0#7c&qz q%nTN&7u)7)q:)ff% %W#nz#O nfM#&#f&Wq#fl&7nf%Wz# l%OqfWWn&%##z%% #qzTO&0*znzz0Wnq{07)TW 7#El/q7T %% Tz&qi0n)W7zf W%&7&lTn%& flOO7T%Tq &lbqn ) qzlO 17h0&0T)#l#%l%q00%)qF0W%Wf#%lTq7O%77)O7zfzOznW1%&TT&7f7W&nqzOn)%7Tf&)n)l7nW#%f#T nql00)l#O Wq 0%)T&n#%lT T.%_n0:T W%fz nzTl%0E&lnOfq#)T%lWqq  z&OTn&)Mzz0f)#y0l%zq0&nj?nnqn%{Tf&fWWq#ll&q#fzTf#%lTq&nqTz#)TWqmz}l!n 4%)%# #8W&qzO zn) Tn1WTO TT%Wn &l9qn%) #) _n&&Tl ;zqOOnzB q 0)nq#Ul%qO0z) O0O%0))O&0fn%# fi%n#T&Wo#nfTT%%T %z7) &7f)7zTlW7q l0qlOO)%u#f Tf%f )lcO00))n7%TfW %50Tq0O)n)Tq&WTn%  0l q#nq) &f###W%9l#z)On&qdqfWTq%TO7lqq00W)%&ff)O&07)n7Ofz#fn0nWOn7fW&&TzzOf##O X 0qWlW#7zf&W%#Tl&OqTlf>&Wl#qO%T#qlcqn0Oq#zlOTn)&q7qTWOlnzy &%TT%&#oq%#00z)f7%fTW&7O&Wf Wn fyfzl&nq&f#qqf,WTq#7T&TTX%n OTQ#)# lDq0O 7O7#f&W#Ws qzfqnTn%  zz O%#0z7qf0lWO#Tl q%0Tz)z7O&00) WWz%qOn&)>7nn )W)V&&%7%l#%zl0)Tl%  %zTf009)n7OflW #%lTl.qlnnhO&z0z%% Tz&zn0T)O7zf nn#Tl&zDz 0)(z& T%Wn &l)qnz%)z7TzWWT#& 9z OOnl_ &%qO%&#alnqq0z) 7%&&T&%+ nzOzTn 6%&T&Z1G#nlqqzW )%7Tf&&wWz OzlO nW/Tqqf_TO%zlzqW0%#O7&&VTn%O 7z OWnT))7ZfnWO#z &q%0T)&vA&nTz%z  lqOTn&)*70fOW #  Tl#0&n)DnqWTz%  % TT%0=)07OflW )GlTlpz)nnBz&zfW%% Tz&znOO)O7#f ff#Tl&zSOn0q8z&#T%%7 &lnqnOz)f7 fTWT)q YznOOOz)7&%T&%&#nlnT%0zn%))fTT)%D&)zOOzn )T7TT&WO#n#lqz0 )%7T&#TK%O Oz%O nTRT61fcWn#llzf 0%)T7&j.fl%O #z OfnTl)7F7nTO#zlWq%07)&n)&n7OW0  zWOTl )K0lfOT %&l%z.0&%h,n&OTzT #nzTqn0_)z7Oq)W %% Wq&O)nn_W&zTT%%#&l&qN0z)OOOf W%#T#& zOnn yz&TT%nW &#Zz%0O)%7 f&WT3W rlnOlnz{#&%OW%&#Oln OO0) 7WfT)%%_%OzOlz0n.%&&T&7%#n%0qzO n)7T&<Ts%# OzlO 0Tnz&&fOWn)qlzq 0%0Tl%&/Tz%O %z #0nTnLl%fnW##zT7q%0T)&)n&%TO%T   7OTn&)wNO&)Wz#7l%W00&nben&OT7%  &zTqq0L)O7O&zTT#%l&q&#znn! &z7 W# Tl*qi n)O7#f TTWOl&zOOn%qGz& T%TTo%l<qz0O)%7 qGWTW^)qznO#nzq7&%TT%&%n 0qO0T) q)fTW&%G#OzlOzn7+%O0T&W8#nlOqT0 )&7T&qTw%O OlzOfn%E&&&0OWn# lzz%Ol)Tvn&>_#%O zz z%n&;&7OfnW #z&&q%O&%_54&lTOnn  z%OTOG%q7nf%Wz&7l%qT0&0n)f&OTf% < zTO&0JnO-%fzTG#%f0q&OPnn^O70T %& Tlzqo0O)O_z7)W%#&l&#WOnn ez7%fk%T#nlo##0O)z7 7%f0#& OznO nzl&&%f&0b#RllqO f) 7%fTfP0q nz%OzO6C%&TT&Tn%zlOqf0 l)7Tf&TgWO#%zzqLn%0 &&fpWn#Ollq 0&)T6z&hTO%O#zzWO%n&D&0ffnW #z %lq0Tnn9X0=TO%z   %q)n&)O7nf Wz&ll%lTW%nK<z&OT%% #WzTq&lW)n7zfz}l#% !q&le0n-O& T WO TTfqsOOn&7zfTW%)fl&z8OnOO)n& T&%T#nl<T 0On 7Tf%T)#& 0znOOnz)%&fTTWO#(lqqO0z) cT7xW&%l nzlOzn ;%&Tf#WN#zlOqf0 )T7T&&&T%n zzzq%n%)y&&v>Wz#Ol q z))TnR&G7nT* zz%O%%&?&nnfn&O##l qT0T O:-=OTOfz#)z%O&n&z%7n7zWz# #6qTOnnNxO&OTz% #T  O&0q)nlOfzW #%#T%nO=nl,O&WT T) T sWW0n)W7zO W%#Tl&zxO7nOEW& f)%T#ol_ln0W)z7ff%T)#&W&znOO0 , 7=TTWq#slnqO0z067%&OW&%; nzOOzn&)f&TflWb%OlOql0 )&7Tf&77%n OzzO&n%{T&&fg7)#Olzq On)T7&&PTn&0 zz O%00C&7_fnWOfql q%0Tnnxd&nTOW f%z%qzn& n7nfOWz#  zqTO n/50&OT %  % lO&0l)n7&fzW #%#Tz#OMnTxO&WT fl Tz&zf0nny7z&)W%#Tl&zHq^nO)6& fz%T 7lHln0z)z6nf%WT#&#zznOOql4 7zTT%&#BllqOzz0)7%& W&&% n#qOzq zn&Tf%WE%7lOl70 O%))f&TT%nW zzz%n%0TOzfKW&#OW&q zW)Tn&7nTnWU zlzO%qfw&7ZffWO%Pl zz0Tn>wj7OfO%z#0z%TTn&)_7n7O7%#  qqTO#nx)#&Of 7n %l#O&l))n7OfzW %flTz#O4n7_O& T T%%qz&qW0n)77z7)W%%& RzuO7nOqn& T%%T &llqnOn)z7 f%W7#&W:l%OO0OU zlTT&q#I%nqq0znz7%&zW&)) n#OfOn ) &T&nWiW8lOqzl )%?lf&T&%n qzzz 0qET7#fJWT#OWqq 0%0l7&&fTn%O zzWO%qTnz7^f7WO&jl fO0TO&)l&nf)%z# z%z n&O,7TfOT0# &qqTzlny*n7qTzW0 %l#O&0n)n)On%W %zlTz#ORnlXO7 &E%%#%z&W?0n)O7zf fO#T %zhqmnOGl& &%W0 &lTqn07)z7ff%T&%f -lROOnly &%TT%&#flnz_0znz7%ffW&Tu WzOqnn )q&Tf0W(%O&WqzOz)%qof&T3%n OlfO 0z5T7Tf_W0#O#zlq0%n 7&&WTn%# zl%O7nT)T7VOWWO#zl q%qz)&IT&nfn%z #z%zTO#)_7&fOT)# l7qTqbnn/n7nTz&O %zTO&0Al07O&nW % lTq7O5OnO &zfO%%#lz&qq0nnzl f T #Tf7z}OnnO.zn T%W  &l&qn0q)z) 70WT%% .zTOOzq1 &%&O%&#&lnqO0z)W7%;TTW%B#*zO#Cn q7&T7&TO#n nqzO )%) f&7aW) OlOO #q4T)lfBWn%#lzzO0%n%7&&nTnTO&Sz qlnT)%7sFnWO#zlWq%OW)&^U&nTz%zW zfOT0f)-0TfOn%# lTz#0&0aJn&#Tz%  %lT n0sn)7O0WW %%lTq&Ofnn))&zfl%% fz&lZO0)O10f Tz#T%&zgOn0)Jz7lT%%T &lnqnzO)#7 &#WT&  b#lOOn )q&%fT%&#WlnqO0zn qTfTTf%U&lzOqzn 3%&7T&Wf#n 0qz0#)%)T&7TF%7 OzzO #0IT&&&OWn%0lzq 0%nR7&)Pff%O#qz #OnT)W7A3nTz#z lq%#&)&nv&n7O%7  l#OT0z)_s&fO&znzl%zW0&lWYnnzTz% T%zTqW0Gn)7OflW W% zq&Ofnn-&&z_l%% TlOqgO))O7zf Wf#T%&l#On00uz0nT%7f &%-qW0Onq7 &%WTW% ^#nO nz)l&%0l%&W#lnqOO7) LlfTTf%R OzOzz n!%7%T&Wf#nTfqz0 0q7T&&Tr%n OzlO q%)l&&&}Wnf&lz#O0%)T2#&-f5%O#zz OTnTn&O%fnT0#z qq% l)&ha7&TOWl  z%OT0z)Rnnf7Wz%#l%%z0&z*Vn)O)&% #WzTWf0Q)O7OZzWT#% fq&# nnzn&z7 %T Tl7qJ 7)O7 f TT%Xl&lnOn%qsz& T%TT%llizO0On 7 n0WTW*##znqlnznf&%TT%&%nlTqOO%) )7fTW&%H#Ol%Oz0f5%))T&WG#nlOz&0 nT7T70T.%O OlzWOn%)f&&)OWn%zlz  #n)TM7&ITf%O #z l%n&1&s)fnYz#zTWq%0&nW/27OTOWn  z%OT0&ln7n&qWz7fl%z&0&nY)W&Ofq% #WzTO70r0n77fzTl#% #q& WnnLO&7T WW Tz&q20%)Onz7nW%%fl&%%Onz).z) fW%T#7lNT)0Onq7 }%Tn#&#)zn#Tnzzz&%7TWV#U 0qO#0) G#fTfR%& nlzOz%#v%&TT&fN%zlOz 0 nT7TnlT<WO#&zzqWn%0)&&f:Wn%z Oq O&)Tn0&ZTn%O# z7O%O)3&)qfnWO#zl l00T0>x67lTO%   l%W n&n)7n) Wz%%l% T#zn:)0&Of)%  fzTl&On)n;qfz:%#%T7q&Onn7pO7 T %& Tz&qROnlz7z&#W%-)l&lnOnnO/f& f#%T#7lRq00O0z7&f%TW#& fznz&nzQ 10TTW7#GlnqO0%) n%&fW&W) n%&OzznS%)T&UWd%0lOW00  z7T:&Tn%n#qzzqfn%n&&&fnW7#O  q On)T7&&_fnyz zl#O%#)b&BnfnWO%)l z#0Tn7=!&0TOTz#fz%qWn&)f7n7&Wz#   qTO7nA_n&OT%% W% qO&O))n0&fz7W#%%TzaO900NOO0T )z T#&q#0nnq7z&fW%W&l&znO7nO) & fO%T &l-zn#z)z2#f%n)#&#nznOOnW? 7#TTW7#_l0qOqzn)7%&WW&%f n &Ozn :7&Tf7Wb#nlOq%0 O%)#f&f)%nT&zzlzn%0T7TfwT0#Of0q %z)Tn&7zTnWq zlfO%O&M&7nf7WO% l qT0T)&3Y7n7 %z##z%W)n&nn7nfOf0#  #qTO7nug0&O&zWn %lWO&0f)nzlfzW #7lTz7OFnn6O&#T f%%zz&z)0nq&7z}WW%TTUTzgq0nOz0& 70%T#YlfqnOz)z1qf%WT#&#=#zOO0l{ O7TTTQ#.lnz#0znl7%&fW&%) n Oq#n )#&TfWWkTnlOqzOT)%Uff&TX%n zzzl n7kT77fL7T#O nq 0Tn#7&7nTn%l zz O%0TOn7a&0WO7Wl zT0T)&)0&nf0%z##z%Ofn&0v7%fOTq#  lqTz&nhCn&lTzW# %zTO&0n)nnO&qW %WlT% OwO)_O& fq%%#&z&z10n)O7z& )T#T 7z^%lnO) & T%W0 &l7qnOq)z7#f%fT%T Vl)OO0H3 n#TT%&# lnzq0z) 7%f7W&fu##zOqln qO&TfnWPTn TqzO#)%_Tf&f%%nWO )O 0WhTq#fJfW#Olzz00%nW7&7)Tn%z z  %OnT)&7G&)WOTzl q%O*)&)n&nTO%z %z%lT0#)/SOfO<s#  0qTOcnfgn7lTzWl %zTO&OsOz7O& W 77lTl)Ognn/#&zf %%#&z&q)0n0O7%f T%#T fzYlnnO6z7fT%W& &lLqn0z)zn f7WTWm a%TOOq&r &Tf#%&%0lnqO0z) 7%&T7n%S#OzO%Wn )f&TT&T##n OqzO%)%7ff&&QW  OlzO 0#VT)&fuWn%flzz%0%)T7&&nTnfO#%z qTnTq 7LOlWO#  qq%O7)&yl&nTO%z# #&OTO_)5qlfOT## l%lq0&09^n7zTz%# % Tzn0Mnn7O&qW T%lTq&qqnn)z&zT %% &z& Q0q)O( f cO#T%#zyOO0)rz7WT%Wn &lQqnOOl 7 &TWTV0 FlqOOnzn0&%fT%&%nlnqq0z0 _7fTT&%A TzO qn G%7TT&Tn#nlOqz0W)%nT&OT1WO OW2O l:cT)&flWn%zlzz 0%0z7&)=f%%O# z WqnT0l7>fnW7#z  q%O&)&Gn&n&ONy  lWOT0&)ynnfOWz#%l%z70&nM3n&zTzf #%zTz)0*qT7O7)W #T #q&qOnnxf&zT %%#T%nqFOq)OqWf T&#Tl&lOOn0qcz7WT%%f &#4zl0Onl7 &%WTT& Nznq#nz)W&%TT%&#nln Oqn) .ffTJ %(&TzOO 0qJ%A*T&W)#nlOqzO lT7T7)TP<l Ol%O n%nO&&&)Wn%llzq#0%0TXq&df0%O#Cz  #nT=&/lfnTl#zl q%07)&0U7fTOW#  WOOTqn)Knnf&Wz%Wl%zT0&0%4n)Ofl% #fzTW#0m0W7OfzT0#% fq&q0nnCz&z& iO T yqaO0)Onzf W%%Wl&lOOnnO>z&%T%fT#)lLzz0OzQ7 &SWT%H fznq#nz)#&%TT%&%BfOqOO%) q7fTf0%+ nl&Oz0%U%=FT&W)#n#Ozn0 nT7T& T5&) OzzqOn%nA&&f*Wn#llz  On)T)n&{8T%OW7z l%O0?&IOfnTO#z#nq%zTn&m97zTO))  #0OTn&)W7n&zWz%Tl%q&0&O_qT&Of#% #TzTl&0{)n7#fzTf#%lTq&Onnn0O7nT W7 TW qgq%)O7 &qW%Wnl&z&OnnOgz7 7O%T%0l3Wl0OnT7 f%T0#&#0znq#nza#&%TTT)#vlnqO0l) 7%fTf)%h nzOO%n K%&TT&Wl#nlOqz = &l<O&>lrl7 zz ln%*T&&0 nzb &zTWlOOWnfqnn0)WWOT7W0%3lzzq0On#3#ffTT#7 fz&qzn#)O7T# %7#flfn)) )lE%&q%>%f 7lOql))))7 f0lflO )z0O nWT#&#W7%##60000n#)07%z&qO0n)O7z07)Wu#&0zNOTnOUz& 0z)W&7fOTq%   z)O n0%z /znOO0 )n&%TT%&#OlnqO0zn%)0fTW7%N qzOOzn n%7#T&W)#nlqqz0#)%S&7WTp%q Oz O n%<T&&fnWn#qlzqW0%)T7&&GT%%O zz O%nT)R7sfnTz#zl q%0f)&>)&nTOn&  z%OTn7)g7nfOWz# l%qT0&nO6n&OTz%  &zTO&0sl#qqO0)f#%T7q&OQnnzTq%0T)%77% l7z) zqlO7& X0&lfO%%##z qf0f))kbf0T)%n %qfO 0gTT&0f)W)qql)q#0T) 7Wf&Wz%O qzfO70)T770TfWO 7zfqO0ln07q&zW7%  &nWqinqE 7l#qWg 7zfqnO0&)Z)flT)% OWl)O00O}f7zfTO%0zC&7{fnn_Pqf#W&%7#nlnOW0n-f  l)OTn&)50%O n%a T)T)Wnn Gn&OTzW%#OzTO&0a)q7OfzW %T##q&O)nn<q&zT %%%T qqr00)O7lf W&#T#Yl0OnnlUz&%T%%T &lGz 0O)l7 ffWT#& Eznq9nzE &%TT%&#nlnqO0&) 7%fTW7%N 0zOOzW6J%&TT&W)#nlOqz0 )%7Tf&T1%q OzzO n%)q&&fXWn&W&qT%%q 7z&O)nq5# zzTO%nTF&ql00n)7Wl z)0T)&,bn#0z+l7&f0T3%l)O7nfOWz%% %qT07nZ*O&OTz% %%& O&0))n7qfzW##% TT%O!n0RO&#T %% Tz&f 0n)O7zf#W%#Tl&z=OnnO{z&#TT%T &l4qnl0)z7 f%n Nf&)TzWl#%l%q00%)qW f#Wq%0lf0OnO0n)O7n%W%W#T0nI&0znOYz&OT#lnO#nWO&n))q7 TW%%#0l%)T00n)B)%qT%#W#0nfnz0 &lfz#TTblOqz)n7WffW&%)q%Oz)&:v&n0.)q&#T&W7%n nqWOn)f#fl%qT0&0nqr&OTz%  TzTO&0rnO,&fzW##%lfq&OunnCO&WT %% Tl.qu0O)O7z&fW%#Tl&z)Onnq^z& f)%T &lMq00O)z7 f%WT#& iznO%nz9 &%TTW##}lnqO n lqf0fn%72&&TqW7 flT&TflW_#nlO%y%f lzTn&n7)#&#f O 0)KT&&fIhng>flf)#7 &l)&RT%%O zz #n%)lWq)Oyn077fTq%OM)&AH&nnWLl7qT7OT0l)M7nfO7#A:fWT&#7 0lzO#0 %7 %zTO&Onq07OflW #7lTq&O1On) &zT#%% fz&q00n0O)0f WW#Tl7zNO0nOnz7qT%%f &l)qn0%)z) &WWT#7 Gz0OOn%X 7%&z%&#)lnqz0z) 7%fTW7%B nzOOln {%&TT&WE#nlOql0%)%7Tf&T1%& OzzO #fl)zn00)&7f&zW%%#lfloOOTn%& zz O%q&07nqez&OTl%  &l0q8UO&nTO%z#%l%OTn&)970fOWz#  Tf&0&n)3n&zTz%  %zT#l0j)n7Of W #WlTq&T nn_O&zT#%% Tz&q20n)O7zf W&#Tl&z3Onz-az& T%)O<n&OTn%lqonl9#n0Bl7OT%W#  0zOf0W)WW7WzT0##l)z#O000)n7z#0#0 #l0q%7fnn70&W q%qlWzqOT&77q&lf W)#% Rz)777zf%% %%#)O%z%qqn0%O#Kz O%nTl%q700) :#&TTT%q Tzl&nT %z  z%W0 7lfqlfOWf# l%qT z#OlzqORfcf7&lOO&0A)nrz&kW #%lTzHO+nnMO7 f%%% fz&q00n)O7z7 Tf#Tl7zIO0nOJ%& fTW# &l0qn0q)z7 f%WT%k az0OOn#< &%TT%&%0lnqO0z) 7%f&W&%_ zzOOzn KW&TT7Wg#n7Tqz0 )%7ff&Te%n OzzO n%iT7nfUWn#Olzq70%)T7&n 0z) 7z%7%7%xe&7%fnWO#z&OT##f nl0qz0zI77zf)OT0n)*7nfO)f7#&lT)0&q7Jn&OTz)I7&&-W&%0OTn0sqn%7W70 T%l Wl O&0f4T/)&)Wq%OllzqOzn&D)&TfOl- llqqq7#)%7f&OTn%0l7zfp#n#))7uT0%f#OlT)#0#>77#&; 0%0l#z0O%&TXT7lTqO&n D%&T&:W%#nlOqz0%)%7Tf&fn%& OzlO nf_T&&f{fn%#lzq#0%)f7&&)TnWz#)z OfnT)n7sfnWO#z#)q%0f)&a0&nTO%z   )OTn&)!7nfOW # l%zq0&ni+n&qTz%# %zTfz0N)n7OflW #%lTq&O>nnFO&zT&%% Tz&qE0f)O7zf >z:W&)T)%&lOlnO#O0))P,luq#0O)z7 n%n 777#TlWz##_ 7nTT%&#.W%T#%0l#z OWnlUO nz Ozn 8%q0n7)f7llOq70 )%7Tn)n V07zTl%W#&l)zbfjWW#Olzq  O#)zWq?)n)07fTfWT00{&7*fnTzfll qW0TnnC2&nTOTz &z%Ofn&))7nfzWzW #0qT07nr10&OTl% %% nO&0))n7qfzWf#%#Tz0O?n0-O&lT %f Tl&q 0n)q7zf&W%#Tl&zBO7nOrz& TW%T &lxqn0O)z7 fWW&#& HznOO%O3 &%TT)%77f0W %# TzTOqnT(l%%TW%l#qz7nz)znONz&O#f#f &nOB?n )z7 fzWWzO0W)fOn)0!W%OW7%0#<zzqqnO)#7#TfWT 7lfq&Oz)#MO&T  #7 fzf))0#)#&ffT%f#Tlqz#Oz)T7&%#T&%f nz&q00&fqW#f#%7## Zn07W7ff*%)#l OOlOq)l&f&7Tn#0#)lq0#0 )ff7&)W0 ql%z nWnA)bf)f0% lllqqW)f)Wj)T;%# WzTO7)n&%fz%&#6lnT3%ql#q&O70n)n&Wfn%fnfi%&TT&Tn&PlOqz0 )T7Tf&TdWO WzzO#n%If&&fCWn#O 0q 0%)TGQ&}TO%O z OO%nTK&7)fnWq#zl q&0T)&!G&0TO%z  z%OTn&)>7nf%Wz# l%qTOln(Hn&Ok#)(&Wf&%7#0 zq#O W %nlTq&Orz%l#q0n#) 7WflWO0n)f7zf W%70f7TT%flllzOfn7)E &llqn0O)zO Oz)f)l&qfOWlnz)0&%TT%&fT&)Wl#l OO%O )7)#&lfzOznTr%&TT&)l70&)WW07)%7Tf&fn&0 OzlO 02kT&&f!fn%Olzq#0%)f7&&OTnTO#lz OWnTc77{flWOWz &q%0f)&Y)&nTq%z%  0OTn7)K70fOW #  %zT0&n)wn&lTz%  %zTqz03)n7OflW #%lTq&OhnndO&lT%%% Tz&q!0W)O7zf 70f0W)#nl%qz0W) 7W%T#%lyqn0O #qfO&)7<%&#fn%z#qz#qT0MWn#VlnqOO n 7%fTW&%n nzOOz0% T&TT7Wi#0lOqz0 )%Oqf&T_%n zzzO#n%-Tlzf}Wn#Ollq 0%)T7&&UTn%O zz&O%nTE&7(fWWO#zl #f%Ol7lnO0nl)%&ffTOT0z)u7nfO7&:f&lWf%T 7zWO Tz%T %zTO&#ll0z)0WW %qlTq&Ooz&l0O#n#)zfTf%W)%Wl#z f T)#Tl&z1#n#}zlz)n7)&6)lZqW0O)z7 0))f+%&WWqWO WzfO&f0%&#plnzzll) 7WfTT)%= nzOzz0T=%&fT&W)#nl#qzq n07Tf7T4%0 Oz%O O%nq&&f)Wn#qlzq#0%0T+f&ET0%O lz OTnT)&7TfnWq#zl&q%0T)&rm7%TO%z  zWOTn&)37nfOWz# lWz00&nrRn&OTf%  %zT 7#flOqf0Wnzv&lTzzOZnnpO0n0)))7O&nW#%;lW7zfTW%#Tl&Tl%0#)zW&WT%%T &lmqn0O)z7 ffWT#& ;znOOnz7 n#TTWO#9lnqOl# lzzOW0*f0 nzlOzn 4%q%00nl%#lOqz0 n, 0f&Td%n lzzO#n%Kf&&fOO0#Olzq 0f)T77&VTz0q zz O%0#S&7)fnTz%zl qW0Tn)ED&nTOTz&0z%Ofn&))7nfzWz%% nqTObnNR &OTz% %% #O&0n)n7zfzW7#% &z#OAnq3O&WT %% T Qq#0n) 7zffW%#Tl&lnO%nOUW& T7%T &l5qnO%)z7%f%T)#& nznqO#n< &WTT%7#alOqO0%%#7%fTW&Wz nzqOz0%)%&TT7W*#qlOqz0 0%qlf&T)%n qzzO%n%)&7Tf<WO#OlTq 0%)T)&&&Tn%z zz%O%00j&3n&fWO##l q&0T)&U=7Of_%z Tz%q3n&)47n&zf0# l7qTOnnu.n&OTzW# %z&O&0q)n7zfzT :zlTq7O/n02O& T %%)Oz&q+0n)q7zf W%#Tl&ziOnnqD%& T%%T &llqn0O)zO(O&0<s&TlTlW nz)n&%TT%&7T&)Wq#% Wz&O&nly&&#zOO%n R%&T0q))77f#qzl0)%7Tf&n )z7 fzWWzO0W)f0l)Wv f&Tf#TO%z)O7n7f0T%fl%f qlfqlOlnz(%%l%l#f lz&))0z^l77##W# 7l#zVD0K#7W&TTq%&#Olq)0)z)%&7f7T)%q Oq#f&W #%lTlQO%nn,O&zT%%% Tz&zn0z)O7lf Wf#Tl&zyzn0qyz&#T%%f &l)qnOznn7 ffWT%n 5znOOnz)q&%Tf%&#0lnqO0z) 6)fTW&%9 nzOO n u%7%T&WZ#nlqqz0#)%7TzzT1%n OzlO n%LT&&fUWn#OlzqT0%)T7&&^TT%O zz Wz#Wz7qOOqn X &)T %0)&Gl&nTO%zfkf&TX#&qlqlO Wz#Tl%qT0& lz0q)nW% fWzTO&0ml%z O%n }fWz fz7#Ozqqf7z))7q&nW %llzzWOW)7Q&&)T7W=# zWqz0&f%7)f7W7z0z&OWnq=#7)%7%7#lq0OWqn0q)T7q&qW#z0l/qn0z&f)n&lT%W#qllnq)n7)OXq%0T0## 0z%ef0nZl7nTlWq 70%znO nz#Tlzq 0%n&y &RTn%O lz O%nTnGETfnWq#zlWq%0T)&nh&zTO%l  zWOT0^)kpO&#Wz#Wl%zA0&n62n&OT#%  WzTq)0+)n7OfzTT#%lTq&O>nn_z&zT TO Tz&q{00)O7lf W%nOl&zAOnnqGz& T%%T &lFqn0O)%7 f%WT#&TqznOOnzlsq&OI)&K0%T 0zq %qWq0&TLl&Wf %&#fzTz)O))q*OflTq%z &z)OT0Ofw&lfqWqq#zuzn0fbq7l& T)%%#+z0qn7)707%fu%7#&z)q0OO)fBz&T #%#l7z#qG707O7lTfW #l r7nf Wz# l%T0#7 fzl&OfL%  %zTW%#7l0q O#nT3T&qTT%lnnEW&zT %%fO&nTO%nqWqWOTTn#Tl&z{qOn&Vz& T%%7 &lAqnOz007 fWWT%o ?znOOOzMT&%Tf%&#)lnq 0zn%)nfTT)%p 0zOOzn G%&&T&W)#nllqz0 )%7T&qT2%n OzzO nTIT&&flWn#Olzq#0%)f7&&pO%%O zz OWnT-&7IfnWO#zl q%Or)&Lp&nTOWg  z%OT#%l7q00 n#kT&TTq%T lxn& Tz%  %f0%7#fll7OffW #%lT%zWO#zlOnfnf)& T 7qX0n)Oq&OTn&9T7)#%l)q0lzO#0fnC70fnWW%nOOqWO#n#Tf7nT0WWqqqGzO0O7&f0%nW  7nR7%fTW&Wn TzOOzn kW&TT&W*%O )qz0#)%7&f&T;%n%OlWO nW4T&7fKWq#O  zz0%)77&&OTn%O zz zqnT577<fqWO#zl q%07)&L?&nTO%z %z%OT0W)P7nfOWl# lWqT0&% =n&OTz%# %zTO&0k)n7OfzW %zlTq&O;nnv &zT %%=DflW0#f)Oh0f W%#Tz0&Tf#. TI#OWQO0OOq#&#& q{7 fTWT#& a l#lnz{W&%TT%&lq7%f%0#) 7%fTW&%X nqO qn Vf&TT&WIl dW>T0 )T7Tf&TuTlTTz#O n%bT&&faWn O0qq 0&)T7&&j)z9#7&fTO%0u,&7*fn) 7l&TW70Tn_y3&nTOTWfqz%O&n&),7nO0n#f#l%qT0&0nln&OTz%  WzTO&0H)n7#fzW #%lfq&OnnnMO&WT %% Tz&q90n)O7z7OW%#Tl&z)OnnO;z& TT%T &laqn0O)z7 &TTn#& )znO#nzh &%f&Wp#>lOqO0&) 7%fTTn%& nzOOz07Q%&fT&W?#llOq%0 )W7Tf&TmTnTnzzOfn%y7&&fqWn#Ol%q Ou)T77&rTn%O zz%O%0nK&7zfnWl#zl lq0Tnq>:&nTO%z   %z#n&)l7nfWWz#fl%znOWncb#&Of%%  WzTqO04)z qfzW #%#^q&O)nn1O&WT Wx Tz7qb0n)O7z)OW%%nl&zzOnnlyz&&q)%T#OlDzl0O)l7 fWWT%n))znOOnz)f&%Tf%&#w#)qO0T) (mfTW&%. n nOznT-%7)T&Wz#nl Tq0 )%7T&zT8%0 OzzOfn%{T&&f)Wn#Olzq 0f)T77&KTn%O zz q%Oz-&7ifnW##zl#q%O&0qp{&nTO%l  z%OTn&nz7nfOWz##l%q&0&na)%&OTl%  TzTO&0E)n))fzW #%lTq&O)nn)n&TT %7 T#0qj00)O7zf W&nfl&zbOnO#Kz&#T%%T#0lRqn0O)l7 f%WT#&WqznOOnz: &%TT%&#zT7qO0z) )7fTW7%y nzOO%W#5%&TT&fq#nlqqz0T%W7Tf&T,T& OzlO n%))&&fXWn#qlzq 0%)T)4&{Tn%O zz O%nTnm^zfnWq#zl#q%0T)&;i&TTO%l  zWOT0J)m7n&MWz#%l%q&0&n(_n&Of&%  WzTO70e)O7OfzfQ#%lTq&OKnnYq&z& n} Tz7qd0n)O7Wf W%j0l&zCOnnOdz&#T%%T#7lxq00O)#7 f%WTWB#%znOznz5%&%TT%&%n 0qO0#) 2zfTW&%,%nzfOznW+%&7T&W%#n zq#0 )&7T&qTQ%n Ozzqzn%P7&&fnWn#zlzz%WT)T}n&mT %O zz qTWq1&7qfnTK#zl q%qTnlyy&lTO%W  lOOTOxn07nf%Wz%0l%qT0&n4)#&OTW%  TzTqU0snO>xfzW&#% aq&O/nn)z7qT W) Tl%qL0n)O)z&&W%%0l&zlOnn&6z7%Dg%T#zl_qq0O)z7 f%T #& lznOznz_%&%TTW##5lOqO0 ) H)fTT&%7 nzqOz0)V%&&T&W{#%lOqz0 )W7Tf&TQ%n OzzO n%CT");local n=0;s.Gzhms_zA(function()s.KVHSQrPL()n=n+1 end)local function e(e,l)if l then return n end;n=e+n;end local l,n,o=h(0,h,e,a,s.OTaOJfCz);local function t()local n,l=s.OTaOJfCz(a,e(1,3),e(5,6)+2);e(2);return(l*256)+n;end;local b=true;local b=0 local function _()local e=n();local n=n();local d=1;local f=(l(n,1,20)*(2^32))+e;local e=l(n,21,31);local n=((-1)^l(n,32));if(e==0)then if(f==b)then return n*0;else e=1;d=0;end;elseif(e==2047)then return(f==0)and(n*(1/0))or(n*(0/0));end;return s.qreQpLoT(n,e-1023)*(d+(f/(2^52)));end;local k=n;local function p(n)local l;if(not n)then n=k();if(n==0)then return'';end;end;l=s.UigOtFb_(a,e(1,3),e(5,6)+n-1);e(n)local e=""for n=(1+b),#l do e=e..s.UigOtFb_(l,n,n)end return e;end;local k=#s.ETSVWzmC(u('\49.\48'))~=1 local e=n;local function le(...)return{...},s.VDScGqEf('#',...)end local function ne()local b={};local u={};local e={};local a={b,u,nil,e};local e=n()local h={}for f=1,e do local l=o();local e;if(l==1)then e=(o()~=#{});elseif(l==3)then local n=_();if k and s.cgcRzjpT(s.ETSVWzmC(n),'.(\48+)$')then n=s.tSwriFsY(n);end e=n;elseif(l==0)then e=p();end;h[f]=e;end;for a=1,n()do local e=o();if(l(e,1,1)==0)then local r=l(e,2,3);local o=l(e,4,6);local e={t(),t(),nil,nil};if(r==0)then e[d]=t();e[z]=t();elseif(r==#{1})then e[d]=n();elseif(r==c[2])then e[d]=n()-(2^16)elseif(r==c[3])then e[d]=n()-(2^16)e[z]=t();end;if(l(o,1,1)==1)then e[f]=h[e[f]]end if(l(o,2,2)==1)then e[d]=h[e[d]]end if(l(o,3,3)==1)then e[z]=h[e[z]]end b[a]=e;end end;for e=1,n()do u[e-(#{1})]=ne();end;a[3]=o();return a;end;local function ee(l,n,e)local f=n;local f=e;return u(s.cgcRzjpT(s.cgcRzjpT(({s.Gzhms_zA(l)})[2],n),e))end local function p(k,b,o)local function fe(...)local t,_,c,ne,u,n,a,ee,j,y,m,l;local e=0;while-1<e do if 3<=e then if e<5 then if 3==e then ee={};j={...};else y=s.VDScGqEf('#',...)-1;m={};end else if e>=4 then for n=44,72 do if 5~=e then e=-2;break;end;l=h(7);break;end;else l=h(7);end end else if e>0 then if e~=-1 then for l=43,93 do if 1~=e then n=-41;a=-1;break;end;c=h(6,90,3,14,k);u=le ne=0;break;end;else n=-41;a=-1;end else t=h(6,64,1,27,k);_=h(6,55,2,58,k);end end e=e+1;end;for e=0,y do if(e>=c)then ee[e-c]=j[e+1];else l[e]=j[e+1];end;end;local e=y-c+1 local e;local h;local function c(...)while true do end end while true do if n<-40 then n=n+42 end e=t[n];h=e[g];if h<=75 then if 38<=h then if h<=56 then if 46>=h then if 42>h then if 39>=h then if 34~=h then repeat if 38<h then local h,a;for o=0,4 do if 1>=o then if 1==o then h=e[f]l[h](r(l,h+1,e[d]))n=n+1;e=t[n];else l[e[f]][e[d]]=l[e[z]];n=n+1;e=t[n];end else if 2<o then if 4~=o then l[e[f]]={};n=n+1;e=t[n];else l[e[f]][e[d]]=e[z];end else h=e[f];a=l[e[d]];l[h+1]=a;l[h]=a[e[z]];n=n+1;e=t[n];end end end break;end;for h=0,6 do if 3>h then if 0>=h then l[e[f]]=l[e[d]][e[z]];n=n+1;e=t[n];else if 2>h then l[e[f]]=l[e[d]][e[z]];n=n+1;e=t[n];else l[e[f]][e[d]]=l[e[z]];n=n+1;e=t[n];end end else if 5>h then if h>=1 then for r=38,73 do if 4~=h then l[e[f]][e[d]]=e[z];n=n+1;e=t[n];break;end;l[e[f]][e[d]]=e[z];n=n+1;e=t[n];break;end;else l[e[f]][e[d]]=e[z];n=n+1;e=t[n];end else if 3~=h then repeat if 6>h then l[e[f]][e[d]]=l[e[z]];n=n+1;e=t[n];break;end;l[e[f]]=o[e[d]];until true;else l[e[f]]=o[e[d]];end end end end until true;else for h=0,6 do if 3>h then if 0>=h then l[e[f]]=l[e[d]][e[z]];n=n+1;e=t[n];else if 2>h then l[e[f]]=l[e[d]][e[z]];n=n+1;e=t[n];else l[e[f]][e[d]]=l[e[z]];n=n+1;e=t[n];end end else if 5>h then if h>=1 then for r=38,73 do if 4~=h then l[e[f]][e[d]]=e[z];n=n+1;e=t[n];break;end;l[e[f]][e[d]]=e[z];n=n+1;e=t[n];break;end;else l[e[f]][e[d]]=e[z];n=n+1;e=t[n];end else if 3~=h then repeat if 6>h then l[e[f]][e[d]]=l[e[z]];n=n+1;e=t[n];break;end;l[e[f]]=o[e[d]];until true;else l[e[f]]=o[e[d]];end end end end end else if 38<h then for t=13,94 do if h>40 then local e=e[f]l[e]=l[e](l[e+1])break;end;if(e[f]<=l[e[z]])then n=n+1;else n=e[d];end;break;end;else local e=e[f]l[e]=l[e](l[e+1])end end else if h<=43 then if h==43 then l[e[f]]={};else local h;l[e[f]][e[d]]=l[e[z]];n=n+1;e=t[n];h=e[f]l[h](r(l,h+1,e[d]))n=n+1;e=t[n];do return end;end else if h<=44 then for h=0,6 do if h>2 then if h<=4 then if h~=-1 then repeat if 3<h then l[e[f]][e[d]]=e[z];n=n+1;e=t[n];break;end;l[e[f]][e[d]]=e[z];n=n+1;e=t[n];until true;else l[e[f]][e[d]]=e[z];n=n+1;e=t[n];end else if h~=6 then l[e[f]]=l[e[d]];n=n+1;e=t[n];else l[e[f]]=o[e[d]];end end else if h>0 then if h>1 then l[e[f]][e[d]]=e[z];n=n+1;e=t[n];else l[e[f]][e[d]]=e[z];n=n+1;e=t[n];end else l[e[f]][e[d]]=l[e[z]];n=n+1;e=t[n];end end end else if h>42 then repeat if 45~=h then local d=e[d];local n=l[d]for e=d+1,e[z]do n=n..l[e];end;l[e[f]]=n;break;end;local h,c,p,k,b;for s=0,6 do if s>2 then if s>4 then if 1<=s then repeat if s<6 then h=e[f]l[h]=l[h](r(l,h+1,a))n=n+1;e=t[n];break;end;l[e[f]]();until true;else h=e[f]l[h]=l[h](r(l,h+1,a))n=n+1;e=t[n];end else if 1<s then repeat if 4>s then l(e[f],e[d]);n=n+1;e=t[n];break;end;h=e[f]p,k=u(l[h](r(l,h+1,e[d])))a=k+h-1 b=0;for e=h,a do b=b+1;l[e]=p[b];end;n=n+1;e=t[n];until true;else h=e[f]p,k=u(l[h](r(l,h+1,e[d])))a=k+h-1 b=0;for e=h,a do b=b+1;l[e]=p[b];end;n=n+1;e=t[n];end end else if s>0 then if-1<=s then for r=12,71 do if s>1 then h=e[f];c=l[e[d]];l[h+1]=c;l[h]=c[e[z]];n=n+1;e=t[n];break;end;l[e[f]]=o[e[d]];n=n+1;e=t[n];break;end;else h=e[f];c=l[e[d]];l[h+1]=c;l[h]=c[e[z]];n=n+1;e=t[n];end else l[e[f]]=o[e[d]];n=n+1;e=t[n];end end end until true;else local h,c,k,p,b;for s=0,6 do if s>2 then if s>4 then if 1<=s then repeat if s<6 then h=e[f]l[h]=l[h](r(l,h+1,a))n=n+1;e=t[n];break;end;l[e[f]]();until true;else h=e[f]l[h]=l[h](r(l,h+1,a))n=n+1;e=t[n];end else if 1<s then repeat if 4>s then l(e[f],e[d]);n=n+1;e=t[n];break;end;h=e[f]k,p=u(l[h](r(l,h+1,e[d])))a=p+h-1 b=0;for e=h,a do b=b+1;l[e]=k[b];end;n=n+1;e=t[n];until true;else h=e[f]k,p=u(l[h](r(l,h+1,e[d])))a=p+h-1 b=0;for e=h,a do b=b+1;l[e]=k[b];end;n=n+1;e=t[n];end end else if s>0 then if-1<=s then for r=12,71 do if s>1 then h=e[f];c=l[e[d]];l[h+1]=c;l[h]=c[e[z]];n=n+1;e=t[n];break;end;l[e[f]]=o[e[d]];n=n+1;e=t[n];break;end;else h=e[f];c=l[e[d]];l[h+1]=c;l[h]=c[e[z]];n=n+1;e=t[n];end else l[e[f]]=o[e[d]];n=n+1;e=t[n];end end end end end end end else if 51<h then if 53<h then if 55<=h then if 54<h then repeat if h~=55 then l[e[f]]=o[e[d]];n=n+1;e=t[n];l[e[f]]=l[e[d]][e[z]];n=n+1;e=t[n];l[e[f]]=l[e[d]][e[z]];n=n+1;e=t[n];l[e[f]]=l[e[d]][e[z]];n=n+1;e=t[n];l[e[f]]=l[e[d]][e[z]];n=n+1;e=t[n];l[e[f]][e[d]]=l[e[z]];n=n+1;e=t[n];do return end;break;end;local f=e[f];local n=l[e[d]];l[f+1]=n;l[f]=n[e[z]];until true;else l[e[f]]=o[e[d]];n=n+1;e=t[n];l[e[f]]=l[e[d]][e[z]];n=n+1;e=t[n];l[e[f]]=l[e[d]][e[z]];n=n+1;e=t[n];l[e[f]]=l[e[d]][e[z]];n=n+1;e=t[n];l[e[f]]=l[e[d]][e[z]];n=n+1;e=t[n];l[e[f]][e[d]]=l[e[z]];n=n+1;e=t[n];do return end;end else local h,o,r;l(e[f],e[d]);n=n+1;e=t[n];h=e[f]l[h]=l[h](l[h+1])n=n+1;e=t[n];o=e[d];r=l[o]for e=o+1,e[z]do r=r..l[e];end;l[e[f]]=r;n=n+1;e=t[n];l[e[f]][e[d]]=l[e[z]];n=n+1;e=t[n];do return end;end else if h>=48 then for o=42,89 do if h~=52 then l[e[f]]=#l[e[d]];break;end;local h,a;for o=0,4 do if 1<o then if 3>o then h=e[f];a=l[e[d]];l[h+1]=a;l[h]=a[e[z]];n=n+1;e=t[n];else if 3==o then l[e[f]]={};n=n+1;e=t[n];else l[e[f]][e[d]]=e[z];end end else if o~=-1 then for a=42,65 do if 0<o then h=e[f]l[h](r(l,h+1,e[d]))n=n+1;e=t[n];break;end;l[e[f]][e[d]]=l[e[z]];n=n+1;e=t[n];break;end;else h=e[f]l[h](r(l,h+1,e[d]))n=n+1;e=t[n];end end end break;end;else local h,a;for o=0,4 do if 1<o then if 3>o then h=e[f];a=l[e[d]];l[h+1]=a;l[h]=a[e[z]];n=n+1;e=t[n];else if 3==o then l[e[f]]={};n=n+1;e=t[n];else l[e[f]][e[d]]=e[z];end end else if o~=-1 then for a=42,65 do if 0<o then h=e[f]l[h](r(l,h+1,e[d]))n=n+1;e=t[n];break;end;l[e[f]][e[d]]=l[e[z]];n=n+1;e=t[n];break;end;else h=e[f]l[h](r(l,h+1,e[d]))n=n+1;e=t[n];end end end end end else if 48>=h then if h~=48 then local a;for h=0,6 do if 2>=h then if h<=0 then l[e[f]]=l[e[d]][e[z]];n=n+1;e=t[n];else if-2<=h then for r=47,89 do if h>1 then l[e[f]]=l[e[d]][e[z]];n=n+1;e=t[n];break;end;l[e[f]]=o[e[d]];n=n+1;e=t[n];break;end;else l[e[f]]=o[e[d]];n=n+1;e=t[n];end end else if 5<=h then if 1~=h then repeat if h<6 then l(e[f],e[d]);n=n+1;e=t[n];break;end;a=e[f]l[a]=l[a](r(l,a+1,e[d]))until true;else l(e[f],e[d]);n=n+1;e=t[n];end else if 2<h then repeat if h>3 then l(e[f],e[d]);n=n+1;e=t[n];break;end;l(e[f],e[d]);n=n+1;e=t[n];until true;else l(e[f],e[d]);n=n+1;e=t[n];end end end end else local o,r;for h=0,2 do if h>=1 then if h>-1 then repeat if 1~=h then l[e[f]][e[d]]=e[z];break;end;l[e[f]]={};n=n+1;e=t[n];until true;else l[e[f]]={};n=n+1;e=t[n];end else o=e[f];r=l[e[d]];l[o+1]=r;l[o]=r[e[z]];n=n+1;e=t[n];end end end else if 49>=h then for h=0,1 do if h>=-2 then for r=35,74 do if h~=1 then l[e[
+local CoreGui = game:GetService("StarterGui")
+
+CoreGui:SetCore("SendNotification", {
+    Title = "人脚本1.4.1",
+    Text = "正在加载人脚本1.4.1",
+    Duration = 3, 
+})
+print("人脚本帮你开启了反挂机")
+		local vu = game:GetService("VirtualUser")
+		game:GetService("Players").LocalPlayer.Idled:connect(function()
+		   vu:Button2Down(Vector2.new(0,0),workspace.CurrentCamera.CFrame)
+		   wait(1)
+		   vu:Button2Up(Vector2.new(0,0),workspace.CurrentCamera.CFrame)
+		end)
+local OrionLib = loadstring(game:HttpGet('https://pastebin.com/raw/SePpsSPZ'))()
+local Window = OrionLib:MakeWindow({Name = "人脚本", HidePremium = false, SaveConfig = true,IntroText = "人脚本1.4.1", ConfigFolder = "人脚本1.4.1"})
+local about = Window:MakeTab({
+    Name = "您的信息",
+    Icon = "rbxassetid://4483345998",
+    PremiumOnly = false
+})
+
+about:AddParagraph("您的用户名:"," "..game.Players.LocalPlayer.Name.."")
+about:AddParagraph("您的注入器:"," "..identifyexecutor().."")
+about:AddParagraph("您当前服务器的ID"," "..game.GameId.."")
+
+local about = Window:MakeTab({    
+Name = "公告",    
+Icon = "rbxassetid://7734068321",    
+PremiumOnly = false})
+
+about:AddParagraph("本脚本是由SARK团队研发")
+about:AddParagraph("注入器有SPDM团队 脚本有SARK团队")
+about:AddParagraph("人脚本永久免费")
+about:AddParagraph("人脚本持续更新")
+about:AddParagraph("脚本创作时间为2024.10.20")
+
+local about = Window:MakeTab({    
+Name = "关于",    
+Icon = "rbxassetid://7734068321",    
+PremiumOnly = false})
+
+about:AddParagraph("幕后作者：未知")
+about:AddParagraph("作者：人")
+about:AddParagraph("副作者：  入 人入")
+about:AddParagraph("【SARK】注入器脚本主群QQ973282501")
+about:AddParagraph("脚本创作时间为2024.10.20")
+
+local Tab =Window:MakeTab({	
+Name = "复制作者QQ群",	
+Icon = "rbxassetid://7734068321",	
+PremiumOnly = false})
+Tab:AddButton({	
+Name = "复制人脚本一群",	
+Callback = function()     
+setclipboard("2154010472")  	
+end})
+Tab:AddButton({	
+Name = "复制【SARK】注入器脚本主群",	
+Callback = function()    
+ setclipboard("973282501")  	
+end})
+Tab:AddButton({	
+Name = "复制专业脚本注入器2群",	
+Callback = function()    
+ setclipboard("432869945")  	
+end})
+Tab:AddButton({	
+Name = "复制巨多脚本1群",	
+Callback = function()    
+ setclipboard("2692249119")  	
+end})
+
+ OrionLib:MakeNotification({	
+ Name = "人脚本",	
+ Content = "欢迎使用人脚本1.3.9",  
+ Image = "rbxassetid://16060333448",	
+ Time = 2})
+OrionLib:MakeNotification({	
+ Name = "人",	
+ Content = "云端更新",  
+ Image = "rbxassetid://16060333448",	
+ Time = 3})
+OrionLib:MakeNotification({	
+ Name = "人脚本",	
+ Content = "人脚本",  
+ Image = "rbxassetid://16060333448",	
+ Time = 4})
+
+local Tab = Window:MakeTab({
+	Name = "通用",
+	Icon = "rbxassetid://7734068321",
+	PremiumOnly = false
+})
+
+Tab:AddSlider({
+
+	Name = "移动速度",
+
+	Min = 16,
+
+	Max = 200,
+
+	Default = 16,
+
+	Color = Color3.fromRGB(255,255,255),
+
+	Increment = 1,
+
+	ValueName = "数值",
+
+	Callback = function(Value)
+
+		game.Players.LocalPlayer.Character.Humanoid.WalkSpeed = Value
+
+	end    
+
+})
+
+Tab:AddSlider({
+
+	Name = "跳跃",
+
+	Min = 16,
+
+	Max = 200,
+
+	Default = 50,
+
+	Color = Color3.fromRGB(255,255,255),
+
+	Increment = 1,
+
+	ValueName = "数值",
+
+	Callback = function(Value)
+
+		game.Players.LocalPlayer.Character.Humanoid.JumpPower = Value
+
+	end    
+
+})
+
+Tab:AddTextbox({
+
+	Name = "跳跃高度设置",
+
+	Default = "",
+
+	TextDisappear = true,
+
+	Callback = function(Value)
+
+		game.Players.LocalPlayer.Character.Humanoid.JumpPower = Value
+
+	end
+
+})
+
+Tab:AddTextbox({
+
+	Name = "移动速度设置",
+
+	Default = "",
+
+	TextDisappear = true,
+
+	Callback = function(Value)
+
+		game.Players.LocalPlayer.Character.Humanoid.WalkSpeed = Value
+
+	end
+
+})
+
+Tab:AddTextbox({
+
+	Name = "重力设置",
+
+	Default = "",
+
+	TextDisappear = true,
+
+	Callback = function(Value)
+
+		game.Workspace.Gravity = Value
+
+	end
+
+})
+
+Tab:AddToggle({
+
+	Name = "夜视",
+
+	Default = false,
+
+	Callback = function(Value)
+
+		if Value then
+
+		    game.Lighting.Ambient = Color3.new(1, 1, 1)
+
+		else
+
+		    game.Lighting.Ambient = Color3.new(0, 0, 0)
+
+		end
+
+	end
+
+})
+
+Tab:AddButton({
+	Name = "人 飞行",
+	Callback = function()
+        loadstring(game:HttpGet("https://pastebin.com/raw/mThEb9jV"))()
+  	end    
+})
+
+Tab:AddButton({
+	Name = "别人飞行",
+	Callback = function()
+     loadstring("\108\111\97\100\115\116\114\105\110\103\40\103\97\109\101\58\72\116\116\112\71\101\116\40\34\104\116\116\112\115\58\47\47\112\97\115\116\101\98\105\110\46\99\111\109\47\114\97\119\47\70\118\67\80\52\118\72\72\34\41\41\40\41")()
+  	end    
+})
+
+Tab:AddButton({
+	Name = "玩家进出显示",
+	Callback = function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/boyscp/scriscriptsc/main/bbn.lua"))()
+  	end    
+})
+
+Tab:AddButton({
+  Name = "透视",
+  Callback = function()
+              loadstring(game:HttpGet('https://raw.githubusercontent.com/Lucasfin000/SpaceHub/main/UESP'))()
+end
+})
+
+Tab:AddButton({
+	Name = "穿墙",
+	Callback = function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/TtmScripter/OtherScript/main/Noclip"))()
+  	end    
+})
+
+Tab:AddButton({
+  Name = "显示时间",
+  Callback = function()
+local LBLG = Instance.new("ScreenGui", getParent)
+local LBL = Instance.new("TextLabel", getParent)
+local player = game.Players.LocalPlayer
+
+LBLG.Name = "LBLG"
+LBLG.Parent = game.CoreGui
+LBLG.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
+LBLG.Enabled = true
+LBL.Name = "LBL"
+LBL.Parent = LBLG
+LBL.BackgroundColor3 = Color3.new(1, 1, 1)
+LBL.BackgroundTransparency = 1
+LBL.BorderColor3 = Color3.new(0, 0, 0)
+LBL.Position = UDim2.new(0.75,0,0.010,0)
+LBL.Size = UDim2.new(0, 133, 0, 30)
+LBL.Font = Enum.Font.GothamSemibold
+LBL.Text = "TextLabel"
+LBL.TextColor3 = Color3.new(1, 1, 1)
+LBL.TextScaled = true
+LBL.TextSize = 14
+LBL.TextWrapped = true
+LBL.Visible = true
+
+local FpsLabel = LBL
+local Heartbeat = game:GetService("RunService").Heartbeat
+local LastIteration, Start
+local FrameUpdateTable = { }
+
+local function HeartbeatUpdate()
+	LastIteration = tick()
+	for Index = #FrameUpdateTable, 1, -1 do
+		FrameUpdateTable[Index + 1] = (FrameUpdateTable[Index] >= LastIteration - 1) and FrameUpdateTable[Index] or nil
+	end
+	FrameUpdateTable[1] = LastIteration
+	local CurrentFPS = (tick() - Start >= 1 and #FrameUpdateTable) or (#FrameUpdateTable / (tick() - Start))
+	CurrentFPS = CurrentFPS - CurrentFPS % 1
+	FpsLabel.Text = ("人机时间:"..os.date("%H").."人"..os.date("%M").."脚"..os.date("%S")).."本"
+end
+Start = tick()
+Heartbeat:Connect(HeartbeatUpdate)
+  end
+})
+
+Tab:AddButton({
+  Name = "显示帧率",
+  Callback = function()
+ -- Gui to Lua 
+ -- Version: 3.2 
+  
+ -- Instances:
+ local ScreenGui = Instance.new("ScreenGui") 
+ local FpsLabel = Instance.new("TextLabel")
+ 
+ --Properties:
+ 
+ ScreenGui.Name = "FPSGui" 
+ ScreenGui.ResetOnSpawn = false 
+ ScreenGui.ZIndexBehavior = Enum.ZIndexBehavior.Sibling 
+ 
+ FpsLabel.Name = "FPSLabel" 
+ FpsLabel.Size = UDim2.new(0, 100, 0, 50) 
+ FpsLabel.Position = UDim2.new(0, 10, 0, 10) 
+ FpsLabel.BackgroundTransparency = 1 
+ FpsLabel.Font = Enum.Font.SourceSansBold 
+ FpsLabel.Text = "帧率: 0" 
+ FpsLabel.TextSize = 20 
+ FpsLabel.TextColor3 = Color3.new(1, 1, 1) 
+ FpsLabel.Parent = ScreenGui 
+  
+ function updateFpsLabel() 
+     local fps = math.floor(1 / game:GetService("RunService").RenderStepped:Wait()) 
+     FpsLabel.Text = "帧率: " .. fps 
+ end 
+  
+  game:GetService("RunService").RenderStepped:Connect(updateFpsLabel) 
+  
+ ScreenGui.Parent = game.Players.LocalPlayer:WaitForChild("PlayerGui")
+
+
+ animateCredits()
+  end
+})
+
+OrionLib:MakeNotification({	
+ Name = "人脚本",	
+ Content = "人脚本",  
+ Image = "rbxassetid://16060333448",	
+ Time = 4})
+ 
+local Tab =Window:MakeTab({
+    Name = "范围",
+	Icon = "rbxassetid://7734068321",
+	PremiumOnly = false
+})
+
+Tab:AddButton({
+    Name="0范围",
+    Callback=function()
+
+_G.HeadSize = 0
+_G.Disabled = true
+
+game:GetService('RunService').RenderStepped:connect(function()
+if _G.Disabled then
+for i,v in next, game:GetService('Players'):GetPlayers() do
+if v.Name ~= game:GetService('Players').LocalPlayer.Name then
+pcall(function()
+v.Character.HumanoidRootPart.Size = Vector3.new(_G.HeadSize,_G.HeadSize,_G.HeadSize)
+v.Character.HumanoidRootPart.Transparency = 0.7
+v.Character.HumanoidRootPart.BrickColor = BrickColor.new("Really red")
+v.Character.HumanoidRootPart.Material = "Neon"
+v.Character.HumanoidRootPart.CanCollide = false
+end)
+end
+end
+end
+end)
+
+    end
+})
+
+Tab:AddButton({
+    Name="5范围",
+    Callback=function()
+
+_G.HeadSize = 5
+_G.Disabled = true
+
+game:GetService('RunService').RenderStepped:connect(function()
+if _G.Disabled then
+for i,v in next, game:GetService('Players'):GetPlayers() do
+if v.Name ~= game:GetService('Players').LocalPlayer.Name then
+pcall(function()
+v.Character.HumanoidRootPart.Size = Vector3.new(_G.HeadSize,_G.HeadSize,_G.HeadSize)
+v.Character.HumanoidRootPart.Transparency = 0.7
+v.Character.HumanoidRootPart.BrickColor = BrickColor.new("Really red")
+v.Character.HumanoidRootPart.Material = "Neon"
+v.Character.HumanoidRootPart.CanCollide = false
+end)
+end
+end
+end
+end)
+
+    end
+})
+
+Tab:AddButton({
+    Name="10范围",
+    Callback=function()
+
+_G.HeadSize = 10
+_G.Disabled = true
+
+game:GetService('RunService').RenderStepped:connect(function()
+if _G.Disabled then
+for i,v in next, game:GetService('Players'):GetPlayers() do
+if v.Name ~= game:GetService('Players').LocalPlayer.Name then
+pcall(function()
+v.Character.HumanoidRootPart.Size = Vector3.new(_G.HeadSize,_G.HeadSize,_G.HeadSize)
+v.Character.HumanoidRootPart.Transparency = 0.7
+v.Character.HumanoidRootPart.BrickColor = BrickColor.new("Really red")
+v.Character.HumanoidRootPart.Material = "Neon"
+v.Character.HumanoidRootPart.CanCollide = false
+end)
+end
+end
+end
+end)
+
+    end
+})
+
+Tab:AddButton({
+    Name="20范围",
+    Callback=function()
+
+_G.HeadSize = 20
+_G.Disabled = true
+
+game:GetService('RunService').RenderStepped:connect(function()
+if _G.Disabled then
+for i,v in next, game:GetService('Players'):GetPlayers() do
+if v.Name ~= game:GetService('Players').LocalPlayer.Name then
+pcall(function()
+v.Character.HumanoidRootPart.Size = Vector3.new(_G.HeadSize,_G.HeadSize,_G.HeadSize)
+v.Character.HumanoidRootPart.Transparency = 0.7
+v.Character.HumanoidRootPart.BrickColor = BrickColor.new("Really red")
+v.Character.HumanoidRootPart.Material = "Neon"
+v.Character.HumanoidRootPart.CanCollide = false
+end)
+end
+end
+end
+end)
+
+    end
+})
+
+Tab:AddButton({
+    Name="50范围",
+    Callback=function()
+
+_G.HeadSize = 50
+_G.Disabled = true
+
+game:GetService('RunService').RenderStepped:connect(function()
+if _G.Disabled then
+for i,v in next, game:GetService('Players'):GetPlayers() do
+if v.Name ~= game:GetService('Players').LocalPlayer.Name then
+pcall(function()
+v.Character.HumanoidRootPart.Size = Vector3.new(_G.HeadSize,_G.HeadSize,_G.HeadSize)
+v.Character.HumanoidRootPart.Transparency = 0.7
+v.Character.HumanoidRootPart.BrickColor = BrickColor.new("Really red")
+v.Character.HumanoidRootPart.Material = "Neon"
+v.Character.HumanoidRootPart.CanCollide = false
+end)
+end
+end
+end
+end)
+
+    end
+})
+
+Tab:AddButton({
+    Name="100范围",
+    Callback=function()
+
+_G.HeadSize = 100
+_G.Disabled = true
+
+game:GetService('RunService').RenderStepped:connect(function()
+if _G.Disabled then
+for i,v in next, game:GetService('Players'):GetPlayers() do
+if v.Name ~= game:GetService('Players').LocalPlayer.Name then
+pcall(function()
+v.Character.HumanoidRootPart.Size = Vector3.new(_G.HeadSize,_G.HeadSize,_G.HeadSize)
+v.Character.HumanoidRootPart.Transparency = 0.7
+v.Character.HumanoidRootPart.BrickColor = BrickColor.new("Really red")
+v.Character.HumanoidRootPart.Material = "Neon"
+v.Character.HumanoidRootPart.CanCollide = false
+end)
+end
+end
+end
+end)
+
+    end
+})
+
+Tab:AddButton({
+    Name="200范围",
+    Callback=function()
+
+_G.HeadSize = 200
+_G.Disabled = true
+
+game:GetService('RunService').RenderStepped:connect(function()
+if _G.Disabled then
+for i,v in next, game:GetService('Players'):GetPlayers() do
+if v.Name ~= game:GetService('Players').LocalPlayer.Name then
+pcall(function()
+v.Character.HumanoidRootPart.Size = Vector3.new(_G.HeadSize,_G.HeadSize,_G.HeadSize)
+v.Character.HumanoidRootPart.Transparency = 0.7
+v.Character.HumanoidRootPart.BrickColor = BrickColor.new("Really red")
+v.Character.HumanoidRootPart.Material = "Neon"
+v.Character.HumanoidRootPart.CanCollide = false
+end)
+end
+end
+end
+end)
+
+    end
+})
+
+Tab:AddButton({
+    Name="400范围",
+    Callback=function()
+
+_G.HeadSize = 400
+_G.Disabled = true
+
+game:GetService('RunService').RenderStepped:connect(function()
+if _G.Disabled then
+for i,v in next, game:GetService('Players'):GetPlayers() do
+if v.Name ~= game:GetService('Players').LocalPlayer.Name then
+pcall(function()
+v.Character.HumanoidRootPart.Size = Vector3.new(_G.HeadSize,_G.HeadSize,_G.HeadSize)
+v.Character.HumanoidRootPart.Transparency = 0.7
+v.Character.HumanoidRootPart.BrickColor = BrickColor.new("Really red")
+v.Character.HumanoidRootPart.Material = "Neon"
+v.Character.HumanoidRootPart.CanCollide = false
+end)
+end
+end
+end
+end)
+
+    end
+})
+
+Tab:AddButton({
+    Name="700范围",
+    Callback=function()
+
+_G.HeadSize = 700
+_G.Disabled = true
+
+game:GetService('RunService').RenderStepped:connect(function()
+if _G.Disabled then
+for i,v in next, game:GetService('Players'):GetPlayers() do
+if v.Name ~= game:GetService('Players').LocalPlayer.Name then
+pcall(function()
+v.Character.HumanoidRootPart.Size = Vector3.new(_G.HeadSize,_G.HeadSize,_G.HeadSize)
+v.Character.HumanoidRootPart.Transparency = 0.7
+v.Character.HumanoidRootPart.BrickColor = BrickColor.new("Really red")
+v.Character.HumanoidRootPart.Material = "Neon"
+v.Character.HumanoidRootPart.CanCollide = false
+end)
+end
+end
+end
+end)
+
+    end
+})
+
+Tab:AddButton({
+    Name="1000范围",
+    Callback=function()
+
+_G.HeadSize = 1000
+_G.Disabled = true
+
+game:GetService('RunService').RenderStepped:connect(function()
+if _G.Disabled then
+for i,v in next, game:GetService('Players'):GetPlayers() do
+if v.Name ~= game:GetService('Players').LocalPlayer.Name then
+pcall(function()
+v.Character.HumanoidRootPart.Size = Vector3.new(_G.HeadSize,_G.HeadSize,_G.HeadSize)
+v.Character.HumanoidRootPart.Transparency = 0.7
+v.Character.HumanoidRootPart.BrickColor = BrickColor.new("Really red")
+v.Character.HumanoidRootPart.Material = "Neon"
+v.Character.HumanoidRootPart.CanCollide = false
+end)
+end
+end
+end
+end)
+
+    end
+})
+
+local Tab =Window:MakeTab({
+    Name = "doors",
+	Icon = "rbxassetid://7734068321",
+	PremiumOnly = false
+})
+
+
+
+Tab:AddButton({
+    Name = "MS汉化",
+	Callback = function()
+	 loadstring(game:HttpGet("https://raw.githubusercontent.com/XSKMS/MS-Chinese-XXZ/refs/heads/main/rename.txt"))()
+	end
+})
+
+Tab:AddButton({
+    Name = "BobHub汉化版",
+	Callback = function()
+	 --[[Doors Blackking And BobHub脚本汉化]]loadstring(game:HttpGet("\104\116\116\112\115\58\47\47\112\97\115\116\101\98\105\110\46\99\111\109\47\114\97\119\47\54\53\84\119\84\56\106\97"))()
+	end
+})
+
+Tab:AddButton({
+    Name = "BobHub英文版",
+	Callback = function()
+	 loadstring(game:HttpGet("https://raw.githubusercontent.com/DarkDoorsKing/Doors/main/Main"))()
+	end
+})
+
+Tab:AddButton({
+    Name = "MS英文版",
+	Callback = function()
+	 loadstring(game:HttpGet("https://raw.githubusercontent.com/notpoiu/mspaint/main/main.lua"))()
+	end
+})
+
+Tab:AddButton({
+    Name = "ZS（密码是：nrty）",
+	Callback = function()
+	 loadstring(game:HttpGet("https://raw.githubusercontent.com/zuohongjian/bjb/main/ZS%20III"))()
+	end
+})
+
+Tab:AddButton({
+    Name = "NBFLOOR 2",
+	Callback = function()
+	 loadstring(game:HttpGet("https://github.com/DocYogurt/Main/raw/main/Scripts/DF2RW.lua"))()
+	end
+})
+
+local Tab =Window:MakeTab({
+    Name = "其他注入器",
+	Icon = "rbxassetid://7734068321",
+	PremiumOnly = false
+})
+
+Tab:AddButton({
+  Name = "阿尔宙斯",
+  Callback = function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/AZYsGithub/chillz-workshop/main/Arceus%20X%20V3"))()
+  end
+})
+
+local Tab =Window:MakeTab({
+    Name = "其他脚本",
+	Icon = "rbxassetid://7734068321",
+	PremiumOnly = false
+})
+
+Tab:AddButton({
+    Name = "人脚本白名单版本（免费的）",
+	Callback = function()
+	 loadstring(game:HttpGet("\104\116\116\112\115\58\47\47\112\97\115\116\101\98\105\110\46\99\111\109\47\114\97\119\47\121\67\86\87\112\57\66\121"))()
+	end
+})
+
+Tab:AddButton({
+    Name = "羊脚本",
+	Callback = function()
+	 loadstring(game:HttpGet("https://raw.githubusercontent.com/yzc604/no/refs/heads/main/%E6%B7%B7%E6%B7%86%204.lua"))()
+	end
+})
+
+Tab:AddButton({
+    Name = "导管中心",
+	Callback = function()
+	 loadstring("\108\111\97\100\115\116\114\105\110\103\40\103\97\109\101\58\72\116\116\112\71\101\116\40\34\104\116\116\112\115\58\47\47\114\97\119\46\103\105\116\104\117\98\117\115\101\114\99\111\110\116\101\110\116\46\99\111\109\47\117\115\101\114\97\110\101\119\114\102\102\47\114\111\98\108\111\120\45\47\109\97\105\110\47\37\69\54\37\57\68\37\65\49\37\69\54\37\65\67\37\66\69\37\69\53\37\56\68\37\56\70\37\69\56\37\65\69\37\65\69\34\41\41\40\41\10")()
+	end
+})
+
+Tab:AddButton({
+    Name = "sansHub（需要加群组）",
+	Callback = function()
+	 loadstring(game:HttpGet("https://raw.githubusercontent.com/iopjklbnmsss/qingchiscript/refs/heads/main/script"))()
+	end
+})
+
+Tab:AddButton({
+    Name = "冷脚本",
+	Callback = function()
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/odhdshhe/leng5/refs/heads/main/leng5.lua"))()
+	end
+})
+
+Tab:AddButton({
+    Name = "云脚本（需要白名单）",
+	Callback = function()
+	 loadstring(game:HttpGet("https://raw.githubusercontent.com/XiaoYunCN/VIP/main/%E4%BA%91%E8%84%9A%E6%9C%AC/UNIVERSAL%20VERSION.LUA", true))()
+	end
+})
+
+Tab:AddButton({
+	Name = "剑客v4（需要加群组）",
+	Callback = function()
+    jianke_V4 = "作者_初夏"jianke__V4 = "作者QQ1412152634"jianke___V4 = "剑客QQ群347724155"loadstring(game:HttpGet(('https://raw.githubusercontent.com/JianKeCX/JianKeV4/main/ChuXia')))()
+  	end    
+})
+
+Tab:AddButton({
+	Name = "皮脚本",
+	Callback = function()
+    getgenv().XiaoPi="皮脚本QQ群1002100032" loadstring(game:HttpGet("https://raw.githubusercontent.com/xiaopi77/xiaopi77/main/QQ1002100032-Roblox-Pi-script.lua"))()
+  	end    
+})
+
+Tab:AddButton({
+    Name = "BS",
+	Callback = function()
+	 loadstring(game:HttpGet("https://gh.llkk.cc/https://raw.githubusercontent.com/BOOSBS/BS/refs/heads/main/BS/Black%20Hole%20Script/BS"))()
+	end
+})
+
+Tab:AddButton({
+    Name = "鲨脚本",
+	Callback = function()
+	 loadstring(game:HttpGet"https://raw.githubusercontent.com/kssklol/script-hub/main/script.lua")()
+	end
+})
+
+Tab:AddButton({
+    Name = "秋脚本",
+	Callback = function()
+	 _G[".秋·自制脚本 遗存抢救"]="2024dncxddtsnchzxtb0112"loadstring(game:HttpGet(utf8.char((function() return table.unpack({104,116,116,112,115,58,47,47,114,97,119,46,103,105,116,104,117,98,117,115,101,114,99,111,110,116,101,110,116,46,99,111,109,47,87,83,98,117,113,47,45,47,109,97,105,110,47,37,69,55,37,65,55,37,56,66,37,67,50,37,66,55,37,69,56,37,56,55,37,65,65,37,69,53,37,56,56,37,66,54,37,69,56,37,56,52,37,57,65,37,69,54,37,57,67,37,65,67})end)())))()
+	end
+})
+
+Tab:AddButton({
+    Name = "XK",
+	Callback = function()
+	 loadstring("\108\111\97\100\115\116\114\105\110\103\40\103\97\109\101\58\72\116\116\112\71\101\116\40\34\104\116\116\112\115\58\47\47\114\97\119\46\103\105\116\104\117\98\117\115\101\114\99\111\110\116\101\110\116\46\99\111\109\47\66\73\78\106\105\97\111\98\122\120\54\47\66\73\78\106\105\97\111\47\109\97\105\110\47\88\75\46\84\88\84\34\41\41\40\41\10")()
+	end
+})
+
+Tab:AddButton({
+    Name = "名脚本",
+	Callback = function()
+	 loadstring(game:HttpGet("https://github.com/root-jiege/new/raw/refs/heads/main/%E5%90%8D%E8%84%9A%E6%9C%AC.txt"))()
+	end
+})
+
+Tab:AddButton({
+    Name = "白脚本（需要白名单）",
+	Callback = function()
+	 _G.qq="1790789616"loadstring(game:HttpGet(('https://raw.githubusercontent.com/wev666666/baijiaobengV2.0beta/main/%E7%99%BD%E8%84%9A%E6%9C%ACbeta'),true))()
+	end
+})
+
+Tab:AddButton({
+    Name = "情云脚本",
+	Callback = function()
+	 loadstring(utf8.char((function() return table.unpack({108,111,97,100,115,116,114,105,110,103,40,103,97,109,101,58,72,116,116,112,71,101,116,40,34,104,116,116,112,115,58,47,47,114,97,119,46,103,105,116,104,117,98,117,115,101,114,99,111,110,116,101,110,116,46,99,111,109,47,67,104,105,110,97,81,89,47,45,47,109,97,105,110,47,37,69,54,37,56,51,37,56,53,37,69,52,37,66,65,37,57,49,34,41,41,40,41})end)()))()
+	end
+})
+
+local Tab =Window:MakeTab({
+    Name = "极速传奇",
+	Icon = "rbxassetid://7734068321",
+	PremiumOnly = false
+})
+
+Tab:AddButton({
+    Name = "极速传奇 （云）",
+	Callback = function()
+	 loadstring(game:HttpGet("https://pastebin.com/raw/HzhPC0dY"))()
+	end
+})
+
+Tab:AddButton({
+    Name = "极速传奇",
+	Callback = function()
+	 loadstring(game:HttpGet("https://raw.githubusercontent.com/TtmScripter/GoodScript/main/LegendOfSpeed(Chinese)"))()
+	end
+})
+
+local Tab =Window:MakeTab({
+    Name = "压力",
+	Icon = "rbxassetid://7734068321",
+	PremiumOnly = false
+})
+
+Tab:AddButton({
+    Name = "NB压力",
+	Callback = function()
+	 loadstring(game:HttpGet(('https://github.com/DocYogurt/Main/raw/main/Scripts/Pressure')))()
+	end
+})
+
+local Tab =Window:MakeTab({
+Name = "河北唐县",
+Icon = "rbxassetid://7734068321",
+PremiumOnly = false
+})
+	
+Tab:AddButton({
+Name = "河北唐县（皮）",
+Callback = function()
+	 loadstring(game:HttpGet("https://raw.githubusercontent.com/xiaopi77/xiaopi77/main/Pi-script-Hebeitangxian.lua"))()
+	end
+})
+
+local Tab =Window:MakeTab({
+Name = "驾驶帝国",
+Icon = "rbxassetid://7734068321",
+PremiumOnly = false
+})
+	
+Tab:AddButton({
+Name = "驾驶帝国脚本",
+Callback = function()
+	 loadstring(game:HttpGet(('https://raw.githubusercontent.com/cool83birdcarfly02six/Lightux/main/README.md'),true))()
+	end
+})
+
+local Tab =Window:MakeTab({
+Name = "巴掌模拟器",
+Icon = "rbxassetid://7734068321",
+PremiumOnly = false
+})
+
+Tab:AddButton({
+    Name = "英文脚本",
+	Callback = function()
+	 loadstring(game:HttpGet("https://lkhub.net/s/loader.lua"))()
+	end
+})
+
+local Tab =Window:MakeTab({
+Name = "evide躲避",
+Icon = "rbxassetid://7734068321",
+PremiumOnly = false
+})
+
+Tab:AddButton({
+    Name = "英文脚本",
+	Callback = function()
+	 loadstring(game:HttpGet("https://raw.githubusercontent.com/Dc2-masket27727/Mobile-s-Hub/main/Main/Hydra/Evade.exe"))();
+	end
+})
+
+local Tab = Window:MakeTab({
+	Name = "伐木大亨2",
+	Icon = "rbxassetid://7734068321",
+	PremiumOnly = false
+})
+
+Tab:AddButton({
+    Name = "LuaWara",
+	Callback = function()
+	 loadstring(game:HttpGet("https://raw.githubusercontent.com/frencaliber/LuaWareLoader.lw/main/luawareloader.wtf",true))()
+	end
+})
+
+local Tab = Window:MakeTab({
+	Name = "火箭发射",
+	Icon = "rbxassetid://7734068321",
+	PremiumOnly = false
+})
+
+Tab:AddButton({
+    Name = "JM火箭发射",
+	Callback = function()
+	 --[[
+火箭发射模拟器 修复一键重生不能用
+--]]
+loadstring(game:HttpGet("https://raw.githubusercontent.com/dingding123hhh/anlushanjinchangantangwanle/refs/heads/main/jmjmjmjmjmjm114514.txt"))()
+	end
+})
